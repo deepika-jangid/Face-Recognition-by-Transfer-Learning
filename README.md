@@ -1,6 +1,8 @@
 # Face Recognition By Transfer Learning
 In this project, I made a face recognition model by using MobileNet Architecture and through the concept of Transfer Learning. I added the dataset of two of my favourite singers,one bollywood singer "ATIF ASLAM" and one punjabi singer "PARMISH VERMA" and trained my machine to recognize their faces. For reference, you can see my project on my <a href="https://www.linkedin.com/posts/deepika-jangid-01b5391a9_mlops-taskcompleted-vimaldagasir-activity-6668479227878260736-_wzZ">LinkedIn Handle</a>.
 
+![](Images/face_recgg_image.jpeg)
+
 # Requirements
 - Own Dataset 
 - Jupyter Notebook IDE 
